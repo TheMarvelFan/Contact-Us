@@ -83,7 +83,24 @@ If you encounter any issues:
 - Check your browser's console for any JavaScript errors.
 - Verify that you're using a modern, up-to-date web browser.
 
-For any other problems or questions, please open an issue in the GitHub repository.
-```
+## Screenshots
 
-This README provides a comprehensive guide for users to clone, set up, and run the Contact Form project. It includes prerequisites, step-by-step instructions, project structure, and guidance on making adjustments. The troubleshooting section helps users address common issues they might encounter.
+- Empty Page:
+
+![image](https://github.com/user-attachments/assets/85760df4-f7b5-46c5-b813-137c81f460e2)
+
+- Filled Form:
+
+![image](https://github.com/user-attachments/assets/6dac2f40-c1f0-447f-8384-326509e6457d)
+
+- Submitted Form:
+
+![image](https://github.com/user-attachments/assets/e87745a6-8956-4177-ba5b-95ce6ce1a1cf)
+
+- Success Message Auto-disappear after 5 seconds:
+
+![image](https://github.com/user-attachments/assets/aa71ed99-ec04-49ba-b7c3-f8428182e798)
+
+- Terminal Output:
+
+![image](https://github.com/user-attachments/assets/662efddd-1b9f-4073-b8b2-c5ce12e21976)
